@@ -1,0 +1,23 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>images/bworkright.png</file>
+        <file>images/bwork.png</file>
+        <file>images/cbworkright.png</file>
+        <file>images/cbwork.png</file>
+        <file>images/rbworkright.png</file>
+        <file>images/rbwork.png</file>
+        <file>images/background.jpg</file>
+        <file>images/mute.png</file>
+        <file>images/muter.png</file>
+        <file>images/gameover.jpg</file>
+        <file>images/gamewin.jpg</file>
+        <file>images/heart2.png</file>
+        <file>images/full2.png</file>
+        <file>images/rarrow.png</file>
+        <file>images/larrow.png</file>
+        <!--        <file>dolby_atmos/birdsc.wav</file> L'enregistrement dans l'exécutable n'est pas supporté par QT :(
+                <file>dolby_atmos/resistancer.wav</file>
+                <file>dolby_atmos/berlinc.wav</file>
+                -->
+    </qresource>
+</RCC>
